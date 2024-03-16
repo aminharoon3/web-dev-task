@@ -1,0 +1,23 @@
+body { margin: 0;
+    margin: 0;
+    width: 100vw;
+}
+.main {
+background-color: bisque ;
+display: flex;
+flex-wrap: wrap;
+}
+.header {background-color: tomato; font-size: 32px;
+    height: 20vh;
+    width: 100vw;
+}
+.menu { background-color: teal;
+    height: 60vh;
+    width: 20vw;}
+.content {background-color: red;
+    height: 60vh;
+    width: 79vw;
+}
+.footer { background-color: blueviolet;
+height: 20vh;
+width: 100vw; }
